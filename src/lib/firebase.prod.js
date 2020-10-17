@@ -1,7 +1,7 @@
 import Firebase from "firebase/app";
 import "firebase/firestore";
 import "firebase/auth";
-import { seedDatabase } from "../seed";
+
 const config = {
   apiKey: "AIzaSyA3jSJQL4bcH9kdwLDXIy_BUtdHl50y3qo",
   authDomain: "netflixclone-by-pulkit.firebaseapp.com",
